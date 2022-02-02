@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Vishwam Shah 
 - 👀 I’m interested in Learn Coding,
 - 🌱 I’m currently learning PYTHON, JAVA 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on INSTA
 - 📫 How to reach me 
 
   My Telegram ID : @badshah023
+  My INSTA ID : @VishwamShah07
 
 <!---
 GeekyBadshah/GeekyBadshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
