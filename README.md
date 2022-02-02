@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishwam Shah 
 - 👀 I’m interested in Learn Coding,
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PYTHON, JAVA 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
