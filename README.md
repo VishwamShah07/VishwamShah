@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishwam Shah 
-- 👀 I’m interested in Learning Coding,
+- 👀 ENTHUSIAST | WANDERER | CODER
 - 🌱 I’m currently learning PYTHON, JAVA 
 - 📫 How to reach me 
 
