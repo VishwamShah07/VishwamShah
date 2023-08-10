@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vishwam Shah 
 - 👀 I’m interested in Learning Coding,
 - 🌱 I’m currently learning PYTHON, JAVA 
-- 💞️ I’m looking to collaborate on INSTA
 - 📫 How to reach me 
 
   My Telegram ID : @badshah023
